@@ -21,23 +21,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/ShadowAsura/AsureBot">
+    <img src="images/jinwoo.jpeg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Asure Bot</h3>
 
   <p align="center">
-    project_description
+    A General Purpose Discord Bot
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ShadowAsura/AsureBot"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/ShadowAsura/AsureBot">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/ShadowAsura/AsureBot/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/ShadowAsura/AsureBot/issues">Request Feature</a>
   </p>
 </div>
 
@@ -53,9 +53,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -66,7 +64,9 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Asure is a Discord bot designed to enhance the functionality of servers and provide a more enjoyable experience for members. The project began as a simple idea to automate common tasks and provide useful features for servers. From there, it has grown into a comprehensive bot with a wide range of features, including role management, custom commands, games, and music.
+
+The goal of Asure is to provide a bot that is easy to use and customize, while also being powerful and reliable. The team behind Asure is constantly working on new updates and features to improve the bot and provide the best experience for users.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,13 +148,13 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/ShadowAsura/AsureBot.svg?style=for-the-badge
 [contributors-url]: https://github.com/ShadowAsura/AsureBot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/ShadowAsura/AsureBot.svg?style=for-the-badge
 [forks-url]: https://github.com/ShadowAsura/AsureBot/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/ShadowAsura/AsureBot.svg?style=for-the-badge
 [stars-url]: https://github.com/ShadowAsura/AsureBot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/ShadowAsura/AsureBot.svg?style=for-the-badge
 [issues-url]: https://github.com/ShadowAsura/AsureBot/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sriram-loganathan-495999254/
