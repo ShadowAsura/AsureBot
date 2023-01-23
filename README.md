@@ -21,9 +21,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ShadowAsura/AsureBot">
-    <img src="images/jinwoo.jpeg" alt="Logo" width="80" height="80">
-  </a>
+  <img src="https://i.ibb.co/NnJgzns/jinwoo.jpg" alt="Logo" width="80" height="80">
 
 <h3 align="center">Asure Bot</h3>
 
